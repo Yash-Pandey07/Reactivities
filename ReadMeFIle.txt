@@ -16,3 +16,14 @@ dotnet ef migrations add InitialCreate -s API -p Persistence
 dotnet watch
 
 dotnet watch --no-hot-reload
+
+//VITE
+npm create vite@latest
+cd client-app
+npm install  
+npm run dev 
+
+//Extensions
+react dev tool
+Axios 
+
